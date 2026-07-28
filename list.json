@@ -4380,11 +4380,6 @@
     "Nama Teknisi": "GUN GUN GUNAWAN"
   },
   {
-    "MID": "044460482",
-    "Kode Pos": "40286",
-    "Nama Teknisi": "RIZAL DWICHANDRA"
-  },
-  {
     "MID": "044402744",
     "Kode Pos": "40292",
     "Nama Teknisi": "RIZAL DWICHANDRA"
@@ -6193,11 +6188,6 @@
     "MID": "003175869",
     "Kode Pos": "40262",
     "Nama Teknisi": "SAEFUL RAMDANI"
-  },
-  {
-    "MID": "044460482",
-    "Kode Pos": "40286",
-    "Nama Teknisi": "TAUFIK HIDAYAT"
   },
   {
     "MID": "002014596",
@@ -52495,11 +52485,6 @@
     "Nama Teknisi": "ARI GUNAWAN"
   },
   {
-    "MID": "044460482",
-    "Kode Pos": "40286",
-    "Nama Teknisi": "TAUFIK HIDAYAT"
-  },
-  {
     "MID": "044460222",
     "Kode Pos": "40286",
     "Nama Teknisi": "TAUFIK HIDAYAT"
@@ -65778,5 +65763,15 @@
     "MID": "004710059",
     "Kode Pos": "",
     "Nama Teknisi": "AUFA GHALY NUGRAHA"
+  },
+  {
+    "MID": "004712865",
+    "Kode Pos": "",
+    "Nama Teknisi": "GUN GUN GUNAWAN"
+  },
+  {
+    "MID": "044460482",
+    "Kode Pos": "",
+    "Nama Teknisi": "DADAN SAMDANI"
   }
 ]
