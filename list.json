@@ -15,11 +15,6 @@
     "Nama Teknisi": "ADI FIRDIANSYAH"
   },
   {
-    "MID": "002902629",
-    "Kode Pos": "40117",
-    "Nama Teknisi": "GUN GUN GUNAWAN"
-  },
-  {
     "MID": "000259425",
     "Kode Pos": "40111",
     "Nama Teknisi": "GUN GUN GUNAWAN"
@@ -30,44 +25,14 @@
     "Nama Teknisi": "INDRA IRAWAN"
   },
   {
-    "MID": "000703808",
-    "Kode Pos": "40117",
-    "Nama Teknisi": "GUN GUN GUNAWAN"
-  },
-  {
-    "MID": "044400671",
-    "Kode Pos": "40117",
-    "Nama Teknisi": "GUN GUN GUNAWAN"
-  },
-  {
-    "MID": "000418263",
-    "Kode Pos": "40225",
-    "Nama Teknisi": "SAEFUL RAMDANI"
-  },
-  {
-    "MID": "001053557",
-    "Kode Pos": "40117",
-    "Nama Teknisi": "GUN GUN GUNAWAN"
-  },
-  {
     "MID": "001179084",
     "Kode Pos": "40261",
     "Nama Teknisi": "SAEFUL RAMDANI"
   },
   {
-    "MID": "001265811",
-    "Kode Pos": "40117",
-    "Nama Teknisi": "GUN GUN GUNAWAN"
-  },
-  {
     "MID": "001671900",
     "Kode Pos": "45363",
     "Nama Teknisi": "INDRA IRAWAN"
-  },
-  {
-    "MID": "001927544",
-    "Kode Pos": "40117",
-    "Nama Teknisi": "GUN GUN GUNAWAN"
   },
   {
     "MID": "004307755",
@@ -8740,11 +8705,6 @@
     "Nama Teknisi": "SEPTIAN GUNAWAN"
   },
   {
-    "MID": "002040671",
-    "Kode Pos": "40266",
-    "Nama Teknisi": "YAYAN HERMAWAN"
-  },
-  {
     "MID": "000765122",
     "Kode Pos": "40111",
     "Nama Teknisi": "ANDRE PRABOWO"
@@ -10681,8 +10641,8 @@
   },
   {
     "MID": "000910455",
-    "Kode Pos": "40624",
-    "Nama Teknisi": "INDRA IRAWAN"
+    "Kode Pos": "",
+    "Nama Teknisi": "YAYAN HERMAWAN"
   },
   {
     "MID": "002255381",
@@ -10768,11 +10728,6 @@
     "MID": "000887831",
     "Kode Pos": "40261",
     "Nama Teknisi": "GUN GUN GUNAWAN"
-  },
-  {
-    "MID": "000904785",
-    "Kode Pos": "40191",
-    "Nama Teknisi": "AUFA GHALY NUGRAHA"
   },
   {
     "MID": "002043462",
@@ -44780,11 +44735,6 @@
     "Nama Teknisi": "AGUS SUHENDAR"
   },
   {
-    "MID": "000904785",
-    "Kode Pos": "40191",
-    "Nama Teknisi": "AUFA GHALY NUGRAHA"
-  },
-  {
     "MID": "003007684",
     "Kode Pos": "40376",
     "Nama Teknisi": "HILMAN ISMAIL"
@@ -57090,11 +57040,6 @@
     "Nama Teknisi": "HILMAN ISMAIL"
   },
   {
-    "MID": "002040671",
-    "Kode Pos": "40266",
-    "Nama Teknisi": "TAUFIK HIDAYAT"
-  },
-  {
     "MID": "001325506",
     "Kode Pos": "40198",
     "Nama Teknisi": "AUFA GHALY NUGRAHA"
@@ -65548,5 +65493,110 @@
     "MID": "000430328",
     "Kode Pos": "",
     "Nama Teknisi": "ANDI MULYANTO"
+  },
+  {
+    "MID": "001188527",
+    "Kode Pos": "",
+    "Nama Teknisi": "TAUFIK HIDAYAT"
+  },
+  {
+    "MID": "",
+    "Kode Pos": "40191",
+    "Nama Teknisi": "DENI NUGRAHA"
+  },
+  {
+    "MID": "000397217",
+    "Kode Pos": "",
+    "Nama Teknisi": "SAEFUL RAMDANI"
+  },
+  {
+    "MID": "000114633",
+    "Kode Pos": "",
+    "Nama Teknisi": "HARRI JAYA"
+  },
+  {
+    "MID": "000340391",
+    "Kode Pos": "",
+    "Nama Teknisi": "HARRI JAYA"
+  },
+  {
+    "MID": "000904785",
+    "Kode Pos": "",
+    "Nama Teknisi": "DENI NUGRAHA"
+  },
+  {
+    "MID": "001222486",
+    "Kode Pos": "",
+    "Nama Teknisi": "SEPTIAN GUNAWAN"
+  },
+  {
+    "MID": "002365347",
+    "Kode Pos": "",
+    "Nama Teknisi": "ANDI MULYANTO"
+  },
+  {
+    "MID": "000880034",
+    "Kode Pos": "",
+    "Nama Teknisi": "ANDI MULYANTO"
+  },
+  {
+    "MID": "002186412",
+    "Kode Pos": "",
+    "Nama Teknisi": "AGUS SUHENDAR"
+  },
+  {
+    "MID": "002260525",
+    "Kode Pos": "",
+    "Nama Teknisi": "ANDI MULYANTO"
+  },
+  {
+    "MID": "000489616",
+    "Kode Pos": "",
+    "Nama Teknisi": "HILMAN ISMAIL"
+  },
+  {
+    "MID": "000158341",
+    "Kode Pos": "",
+    "Nama Teknisi": "AGUS SUHENDAR"
+  },
+  {
+    "MID": "044490642",
+    "Kode Pos": "",
+    "Nama Teknisi": "GUN GUN GUNAWAN"
+  },
+  {
+    "MID": "",
+    "Kode Pos": "40264",
+    "Nama Teknisi": "GUN GUN GUNAWAN"
+  },
+  {
+    "MID": "044490008",
+    "Kode Pos": "",
+    "Nama Teknisi": "ANDI MULYANTO"
+  },
+  {
+    "MID": "002040671",
+    "Kode Pos": "",
+    "Nama Teknisi": "TAUFIK HIDAYAT"
+  },
+  {
+    "MID": "000618350",
+    "Kode Pos": "",
+    "Nama Teknisi": "SAEFUL RAMDANI"
+  },
+  {
+    "MID": "000822597",
+    "Kode Pos": "",
+    "Nama Teknisi": "AGUS SUHENDAR"
+  },
+  {
+    "MID": "001252759",
+    "Kode Pos": "",
+    "Nama Teknisi": "RIZAL DWICHANDRA"
+  },
+  {
+    "MID": "001628682",
+    "Kode Pos": "",
+    "Nama Teknisi": "GUN GUN GUNAWAN"
   }
 ]
